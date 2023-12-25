@@ -1,0 +1,87 @@
+.container {
+    border: 2px solid black;
+    height: 40rem;
+    margin-top: 25px;
+  }
+  
+  .event {
+    display: flex;
+    justify-content: center;
+    height: 5rem;
+    margin-top: 25px;
+  
+  
+  }
+  
+  .Noas {
+    display: flex;
+    justify-content: center;
+  
+  
+  }
+  
+  .container1 {
+    display: flex;
+    border: 2px solid black;
+    height: 25rem;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 25px;
+  
+  }
+  
+  .container3 {
+    margin-top: 30px;
+  }
+  
+  #lname {
+    margin-left: 120px;
+  }
+  
+  #lemail {
+    margin-left: 120px;
+  }
+  
+  #lpn {
+    margin-left: 90px;
+  }
+  
+  #lnos {
+    margin-left: 43px;
+  }
+  
+  #lnoa {
+    margin-left: 4px;
+  }
+  
+  #bsubmit {
+    margin-left: 120px;
+  }
+  
+  #bcancel {
+    margin-left: 30px;
+  }
+  
+  .square {
+    border: 2px solid black;
+    height: 15rem;
+    margin-left: 70px;
+    margin-right: 80px;
+    margin-top: 70px;
+  }
+  
+  .circle {
+    width: 120px;
+    height: 130px;
+    border: 2px solid black;
+    margin-top: 45px;
+    margin-left: 95px;
+    border-radius: 120px;
+  
+  }
+  
+  .image{
+    margin-left:30px;
+    margin-top:50px;
+  }
+  
